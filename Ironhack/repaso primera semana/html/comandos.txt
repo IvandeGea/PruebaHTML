@@ -4,4 +4,7 @@ git init
 rm -r .git
 git add
 git commit -m""
-git log 
+git log
+git checkout master // cambiar de rama//
+git branch // para ver ramas
+
