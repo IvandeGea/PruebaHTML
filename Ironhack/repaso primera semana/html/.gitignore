@@ -7,4 +7,8 @@ git commit -m""
 git log
 git checkout master // cambiar de rama//
 git branch // para ver ramas
-git
+git merge dev // ir a la master i pasar lo de la rama "dev"
+
+
+//GITHUB
+git remote // para ver el destino y el origen cuando hago push o pull
